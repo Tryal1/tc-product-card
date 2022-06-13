@@ -17,4 +17,4 @@ export const ProductTitle = ({ title, className,style }: Props) => {
     </span>
   );
 };
-  
+   
